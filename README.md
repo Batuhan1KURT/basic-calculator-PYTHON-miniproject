@@ -1,10 +1,13 @@
-### Description
+### TASK: BASIC CALCULATOR
+
+
+## Description:
 
 Dive into the world of Python programming with this interactive mini-project - the Basic Calculator. This project offers a hands-on experience in creating a command-line calculator capable of handling essential arithmetic operations. Whether you're a beginner seeking to strengthen your Python skills or an enthusiast looking for a quick coding challenge, this mini-project is designed to enhance your understanding of user interfaces, input parsing, calculations, and error handling.
 
 
 
-### TO-DO
+## TO-DO:
 
 1.) User Interface: Create a basic command-line interface (CLI) for the calculator where users can enter mathematical expressions.
 
